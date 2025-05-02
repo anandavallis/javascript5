@@ -1,0 +1,10 @@
+
+        let numbers =[10,24,60,20,30,45,72];
+        for(let i = 0; i < numbers.length; i ++){
+
+            if (numbers[i] % 5 === 0) {
+        console.log(numbers[i]);
+    }
+}
+        
+    

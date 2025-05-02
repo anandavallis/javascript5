@@ -1,0 +1,15 @@
+
+
+    var evenCount = 0;
+    var oddCount = 0;
+    for (let i = 10; i <= 55; i++) {
+    if (i % 2 === 0) {
+        console.log("The Number " + i  +  " is Even ");
+        evenCount++;
+    } else {
+        console.log("The Number " + i  + " is Odd ");
+        oddCount++;
+    }
+}
+
+    

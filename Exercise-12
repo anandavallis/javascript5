@@ -1,0 +1,13 @@
+
+        function getVal(){
+            ch = prompt ("Enter a Character :");
+          if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u'){
+           console.log("Is Vowel");
+          }
+          else{
+            console.log("Is Consonant");
+          }
+            
+        }
+        getVal();
+    
